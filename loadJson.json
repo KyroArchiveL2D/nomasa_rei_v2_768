@@ -21,7 +21,7 @@
     "resolution": "2k",
     "startAnimation": "Start_Idle_01",
     "startScene": true,
-    "language": "English"
+    "language": "Bahasa Indonesia"
   },
   "EventInfos" : [
     {"BoneName": "bone10d", "Width": 1500, "Height": 800, "Animations":
@@ -56,7 +56,7 @@
       "Sound/CH0245_MemorialLobby_5_2": "初心に戻れるような気がして…元気をもらえる。",
       "Sound/CH0245_MemorialLobby_5_3": "……大切な、お守りなんです。。"
     },
-    "English": {
+    "Bahasa Indonesia": {
       "Sound/CH0245_MemorialLobby_1_1": "Ini bola pertama yang aku tangkep...",
       "Sound/CH0245_MemorialLobby_1_2": "Bola homerun kenangan yang super berharga.",
       "Sound/CH0245_MemorialLobby_2": "Waktu baru mulai main baseball, aku sering banget bawa-bawa bola ini.",
